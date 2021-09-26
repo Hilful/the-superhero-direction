@@ -1,0 +1,17 @@
+img{
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 75px;
+    margin-top: 10px;
+}
+.btn-regular{
+    margin-left: 100px;
+    height: 30px;
+    width: 150px;
+}
+.card{
+   background-color: rgb(88, 103, 189);
+   color: beige;
+   margin: 10px;
+}

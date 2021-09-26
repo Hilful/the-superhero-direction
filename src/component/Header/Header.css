@@ -1,0 +1,8 @@
+.header{
+    text-align: center;
+    background-color:rgb(59, 119, 143);
+    color:rgb(233, 229, 229);
+}
+.title{
+    background-image: linear-gradient( rgb(124, 178, 228),rgb(114, 114, 208) );
+}

@@ -1,0 +1,13 @@
+.actors-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+}
+.cart-section{
+    background-color: rgb(186, 197, 228);
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: auto;
+    border: 5px solid darkblue;
+    border-radius: 10px;
+}

@@ -5,4 +5,4 @@ This is the Live link of my project (https://nayok-naiyka-selector.netlify.app/)
 
 ## It is a kind of website where you get to choose actors and actress for an upcoming drama whose name is "RoshikJaan"
 ## By using this site one can easily predict the pricing of selecting actors with their specific roles
-## You can see details upon selecting candidates ,side by side cards also allows to compare looks of actors and actress as well
+## You can see details upon selecting candidates ,side by side cards also allows to compare looks of actors and actress as well.Fun part is you can also view whom you have selected as your cast and the total pricing for hiring all of those actors/actress.

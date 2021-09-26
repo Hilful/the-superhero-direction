@@ -1,5 +1,7 @@
 import React from 'react';
 
+// Cart details Section 
+
 const Cart = (props) => {
     const { cart } = props;
     let total = 0;
@@ -11,6 +13,8 @@ const Cart = (props) => {
         name = name + " " + actor.name;
     }
     return (
+
+        // Visuals section for cart display 
         <div>
             <h2>Details</h2>
             <h3>Actors selected :{props.cart.length}</h3>
